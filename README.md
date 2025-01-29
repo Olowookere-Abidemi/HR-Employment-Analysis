@@ -3,7 +3,7 @@ This report provides an in-depth analysis of employee performance and organizati
 
 ---
 
-![](https://github.com/Olowookere-Abidemi/HR-Employment-Analysis/blob/main/HR%20DASHBOARD.jpg)
+![](https://github.com/Olowookere-Abidemi/HR-Employment-Analysis/blob/main/HR%20Dashboard..jpg)
 
 
 # HR Employment Analysis
